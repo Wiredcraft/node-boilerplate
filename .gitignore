@@ -1,3 +1,12 @@
+.*
+!.gitignore
+!.gitmodules
+
+*.orig
+
+/node_modules/*
+/node_modules/*/node_modules
+
 lib-cov
 *.seed
 *.log
