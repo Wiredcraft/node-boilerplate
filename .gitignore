@@ -6,7 +6,7 @@
 
 /node_modules/*
 /node_modules/*/node_modules
-!/node_modules/blah
+!/node_modules/carcass
 
 lib-cov
 *.seed
