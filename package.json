@@ -13,7 +13,12 @@
     "url": "https://github.com/devo-ps/node-boilerplate.git"
   },
   "url": "https://github.com/devo-ps/node-boilerplate",
-  "dependencies": {},
+  "dependencies": {
+    "carcass": "~0.0.1",
+    "debug": "~0.7.0",
+    "express": "~3.0.4",
+    "underscore": "~1.4.3"
+  },
   "devDependencies": {
     "mocha": "1.x",
     "should": "1.x"
