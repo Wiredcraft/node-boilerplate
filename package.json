@@ -14,13 +14,11 @@
   },
   "url": "https://github.com/devo-ps/node-boilerplate",
   "dependencies": {
-    "carcass": "~0.0.1",
-    "debug": "~0.7.0",
-    "express": "~3.0.4",
-    "underscore": "~1.4.3"
+    "debug": "~0.7.2"
   },
   "devDependencies": {
     "mocha": "1.x",
+    "request": "2.x",
     "should": "1.x"
   },
   "scripts": {
